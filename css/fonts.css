@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "Poppins";
+    src: url("../webfonts/fonts-file/Poppins-Regular.woff2") format("woff2"), 
+        url("../webfonts/fonts-file/Poppins-Regular.woff.woff") format("woff"), 
+        url("../webfonts/fonts-file/Poppins-Regular.ttf.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "Poppins";
+    src: url("../webfonts/fonts-file/Poppins-Medium.woff2") format("woff2"), 
+        url("../webfonts/fonts-file/Poppins-Medium.woff") format("woff"), 
+        url("../webfonts/fonts-file/Poppins-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url("../webfonts/fonts-file/Poppins-SemiBold.woff2") format("woff2"), 
+        url("../webfonts/fonts-file/Poppins-SemiBold.woff.woff") format("woff"), 
+        url("../webfonts/fonts-file/Poppins-SemiBold.ttf.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Cairo";
+    src: url("../webfonts/fonts-file/Cairo-Regular.woff2") format("woff2"), 
+         url("../webfonts/fonts-file/Cairo-Regular.woff") format("woff"), 
+         url("../webfonts/fonts-file/Cairo-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Cairo";
+    src: url("../webfonts/fonts-file/Cairo-Medium.woff2") format("woff2"), 
+         url("../webfonts/fonts-file/Cairo-Medium.woff") format("woff"), 
+         url("../webfonts/fonts-file/Cairo-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Cairo";
+    src: url("../webfonts/fonts-file/Cairo-SemiBold.woff2") format("woff2"), 
+         url("../webfonts/fonts-file/Cairo-SemiBold.woff") format("woff"), 
+         url("../webfonts/fonts-file/Cairo-SemiBold.ttf") format("truetype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Cairo";
+    src: url("../webfonts/fonts-file/Cairo-Bold.woff2") format("woff2"), 
+         url("../webfonts/fonts-file/Cairo-Bold.woff") format("woff"), 
+         url("../webfonts/fonts-file/Cairo-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
