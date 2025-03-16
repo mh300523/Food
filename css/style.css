@@ -964,5 +964,9 @@ footer
         grid-template-columns: repeat(2,1fr);
      
     }
+    .top-nav .track_order > a, .top-nav .info-deliver
+    {
+        font-size: 12px;
+    }
     
 }
